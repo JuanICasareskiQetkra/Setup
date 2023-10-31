@@ -10,7 +10,7 @@
      1. `git config --global user.name "Tu Nombre"`
      2. `git config --global user.email tuemail@qetkra.com`
 - Instalar [VSCode](https://code.visualstudio.com/download)
-  1. Instalar las extensiones "AWS Toolkit", "Vue Language Features (Volar)", "JavaScript and TypeScript Nightly"
+  1. Instalar las extensiones recomendades según el proyecto escribiendo `@recommended` en el buscador
 
 ## Setup Frontend
 
